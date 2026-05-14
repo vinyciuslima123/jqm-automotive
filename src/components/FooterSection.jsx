@@ -38,7 +38,6 @@ export default function FooterSection() {
                 <strong>Parcelamento em até 12x</strong> no cartão de crédito
               </p>
               <p className="mt-10">
-                <strong>Envio Rápido e Seguro</strong>
               </p>
 
               <p className="mt-10">
