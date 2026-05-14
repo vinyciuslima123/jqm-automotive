@@ -49,7 +49,7 @@ export default function HeroSection({ heroImage }) {
           </h1>
 
           <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-xl leading-relaxed">
-            Transparência e segurança para o seu carro importado. Peças novas e seminovas para veículos premium europeus.
+Confiança e qualidade para o seu veículo importado. Trabalhamos com peças novas e seminovas para carros premium europeus.
           </p>
 
           <div className="mt-10 flex flex-wrap gap-4">

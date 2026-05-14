@@ -38,20 +38,19 @@ export default function AboutSection() {
               Quem Somos
             </span>
             <h2 className="mt-4 text-3xl md:text-5xl font-black uppercase tracking-tight leading-tight">
-              Excelência em
+              Excelência e Procedência em
               <br />
               <span className="text-primary">peças importadas</span>
             </h2>
             <p className="mt-6 text-muted-foreground text-lg leading-relaxed">
-              A JQM Automotive é uma empresa especializada na{" "}
+              A JQM Automotive atua no segmento de importação e venda de peças automotivas novas e{" "}
               <strong className="text-foreground">
-                importação e comercialização de peças automotivas novas e seminovas
+                seminovas para veículos premium europeus, incluindo marcas como
               </strong>{" "}
-              para veículos da linha premium europeia — BMW, Mini Cooper, Audi, Mercedes, Land Rover, Volvo e Porsche.
+              BMW, Mini Cooper, Audi, Mercedes-Benz, Land Rover, Volvo e Porsche.
             </p>
             <p className="mt-4 text-muted-foreground text-lg leading-relaxed">
-              Desde 2025, buscamos oferecer produtos de alta qualidade e um atendimento personalizado para os nossos clientes apaixonados por carros.
-            </p>
+Desde 2025, trabalhamos com foco em qualidade, confiança e atendimento diferenciado, oferecendo soluções para clientes que buscam excelência e performance para seus veículos.            </p>
 
             <a
               href={WHATSAPP_URL}
