@@ -22,26 +22,26 @@ export default function FooterSection() {
             <h2 className="text-3xl md:text-4xl font-black uppercase tracking-tight">
               Entre em <span className="text-primary">contato</span>
             </h2>
-            <p className="mt-4 text-muted-foreground text-lg leading-relaxed max-w-md">
+            <p className="mt-10 text-muted-foreground text-lg leading-relaxed max-w-md">
               Fale com um de nossos atendentes e solicite o orçamento das peças que você precisa.
 
-              <p className="mt-3">
+              <p className="mt-10
+            ">
                 <strong>100% de Garantia</strong> das peças fornecidas
               </p>
 
-              <p className="mt-3">
+              <p className="mt-10">
                 <strong>Frete Grátis</strong> para todo Brasil
               </p>
 
-              <p className="mt-3">
+              <p className="mt-10">
                 <strong>Parcelamento em até 12x</strong> no cartão de crédito
               </p>
-
-              <p className="mt-3">
+              <p className="mt-10">
                 <strong>Envio Rápido e Seguro</strong>
               </p>
 
-              <p className="mt-3">
+              <p className="mt-10">
                 <strong>Número de atendimento Verificado pelo WhatsApp</strong>
               </p>
 
